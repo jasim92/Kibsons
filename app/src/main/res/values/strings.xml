@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kibsons</string>
+    <string name="title_activity_maps">Kibsons</string>
+    <string name="map_key">Your_key_will_be_here</string>
+</resources>
