@@ -33,3 +33,14 @@ Calculates the distance between two coordinates using the Haversine formula.
 
 To use this you can give some coordinates to test it. some of coordinates I already hardcoded in onCreate()
 
+## Example
+
+```java
+// Create a list of coordinates
+List<Coordinate> coordinates = new ArrayList<>();
+coordinates.add(new Coordinate(25.20853916401394, 55.29268839428475));
+coordinates.add(new Coordinate(25.21319790733209, 55.28873936559216));
+// Add more coordinates...
+
+
+
