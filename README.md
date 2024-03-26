@@ -31,7 +31,7 @@ Calculates the distance between two coordinates using the Haversine formula.
 
 ## Usage
 
-To use this you can give some coordinates to test it. some of coordinates I already hardcoded in onCreate()
+To use this you can give some coordinates to test it. some of coordinates I already hardcoded coordinates randomly from Google map to test function
 
 ## Example
 
